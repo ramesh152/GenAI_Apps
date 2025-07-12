@@ -1,2 +1,2 @@
-# GenAI_Apps
+# GenAI Application Development 
 Generative AI Application
